@@ -1,1 +1,2 @@
-# movies-explorer-api
+# backend diploma
+# https://api.diplom.fedenev.nomoredomainswork.ru/
